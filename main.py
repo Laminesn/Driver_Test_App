@@ -1,3 +1,6 @@
+# Author: Lamine Deen
+# Project: Driver License Test + GUI
+
 from DMVDriverTestUI import DMVDriverTestUI
 from XMLParser import XMLParser
 from PyQt5.QtWidgets import QApplication
